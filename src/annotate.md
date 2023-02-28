@@ -1,0 +1,1 @@
+## 2 - perceba que possui uma pasta de testes já configurada , sendo assim , sendo assim após terminar a minha aplicação, eu posso utilizar o comando "yarn test" e ele vai executar os testes da minha aplicação para ver se ela passou
